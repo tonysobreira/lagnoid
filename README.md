@@ -1,3 +1,5 @@
+Lagnoid
+
 The expression of the organizational structure of a software, the structure on which it is constituted, is called architecture, more specifically, software architecture, it subdivides the software, separating it into predefined subsystems, segregating specific responsibilities, rules and relationship between them [1].
 Lagnoid is a based and simplified version of the classic game Arkanoid, developed by Taito [5] in the year 1986. Like any other game, Lagnoid is a system in which players engage in an artificial conflict [2], and when applied to the computational context, such systems will need a software architecture to subsidize their execution, meeting their functional and non-functional requirements.
 The need for a software architecture geared towards digital games has been increasingly evident, with an increasingly demanding market, the development of digital games need to take a more corporate stance, and their development teams a common vision of the project [ 4].
