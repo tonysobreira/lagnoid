@@ -11,3 +11,9 @@ References
 [2] - Salen K., Zimmerman E. Rules of Play: Game Design Fundamentals. The MIT Press, September 2003;
 [3] - Lemes A. O. Games independentes, Programa de Pós-Graduação em Tecnologias da Inteligência e Design Digital PUCSP. São Paulo, BR, 2009;
 [4] - Rollings A., Morris D. Game Architecture and Design: A New Edition. New Riders Games, Indianapolis, IN, October 2003; [5] - Taito, Arkanoid. Available at: https://www.taito.com Access in: 2017/07/20.
+
+Links:
+
+Game Online: https://lagnoid.herokuapp.com/
+
+App: https://github.com/ThisAislan/Lagnoid
